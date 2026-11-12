@@ -1,2 +1,1 @@
-# freeCodeCamp-rdb-alpha
-Repositório para o curso de SQL do freecodecamp
+Basicamente um projeto da oficina que estava fazendo da freeCodeCamp sobre o bash e como utilizar ele
